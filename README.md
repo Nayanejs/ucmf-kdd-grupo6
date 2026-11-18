@@ -16,8 +16,6 @@ python fill_numbers.py                              # tabelas do artigo (paper/n
 cd paper && pdflatex main && bibtex main && pdflatex main && pdflatex main
 ```
 
-Ou abra o notebook no Google Colab (já salvo com as saídas): https://colab.research.google.com/github/Nayanejs/ucmf-kdd-grupo6/blob/main/ucmf_kdd_grupo6.ipynb
-
 `RANDOM_STATE = 42` em todas as etapas aleatórias.
 
 ## Estrutura
